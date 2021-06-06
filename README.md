@@ -1,0 +1,6 @@
+- My nickname: n8body (On Github - @n8b8dy)
+- I'm interested in programming and system administration
+- I’m currently learning JavaScript
+- My contacts:
+  - Telegram: https://t.me/n8body
+  - Discord: n8body#7960
