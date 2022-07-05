@@ -1,5 +1,5 @@
 - My nickname: n8body (On Github - @n8b8dy)
 - I'm interested in programming and system administration
-- I’m currently learning JavaScript
+- Сurrently learning: Typescript and Node JS
 - My contacts
   - Discord: n8body#7960
