@@ -1,6 +1,6 @@
 - My nickname: n8body (On Github - @n8b8dy)
 - I'm interested in programming and system administration
-- I specialise in frontend developement, but I also enjoy writing backend, various utilities and bots.
+- I specialise in frontend developement, but I also enjoy writing backend, various utilities and bots
 - Сurrently improving my skills and knowledge in programming in Golang and Node JS
 - My contacts
   - Mail: contact@n8body.dev
