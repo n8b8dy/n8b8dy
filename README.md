@@ -1,4 +1,4 @@
 - Interested in programming and system administration
-- Specialise in frontend developement, but I also enjoy writing backend, various utilities and bots
+- I specialise in frontend development, but I also enjoy writing backend, various utilities and bots
 - Сurrently improving my skills and knowledge in programming in Golang and Node JS
-- Actively looking for job opportunities
+- Working at Alpha Bite
