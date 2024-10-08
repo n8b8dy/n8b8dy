@@ -4,6 +4,7 @@
 <h3>About me</h3>
 
 <ul>
+  <li>Known as <b>n8body</b></li>
   <li>Front-end & mobile developer from Bulgaria 🇧🇬</li>
   <li>Currently working at Alpha Bite</li>
   <li>When I am not working, I enjoy spending time with my family, exploring new technologies, reading history books, and studying law.</li>
