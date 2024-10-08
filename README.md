@@ -15,8 +15,8 @@
   <p>
     <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&amp;logo=javascript" alt="JavaScript">
     <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&amp;logo=typescript" alt="TypeScript">
-    <img src="https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go" alt="Go">
     <img src="https://img.shields.io/badge/React-black?style=for-the-badge&amp;logo=react" alt="React">
+    <img src="https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go" alt="Go">
     <img src="https://img.shields.io/badge/Arch%20(i%20use%20arch%20btw)-black?style=for-the-badge&logo=archlinux" alt="Arch">
     <img src="https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellijidea" alt="IntelliJ">
   </p>
