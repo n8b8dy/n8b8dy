@@ -27,8 +27,8 @@
   <h3>Links</h3>
   <p>
     <a href="https://n8body.dev/"><img src="https://img.shields.io/badge/n8body.dev-black?style=for-the-badge&logo=torbrowser" alt="n8body.dev"></a>
-    <a href="https://www.linkedin.com/in/ruslan-shamsutdinov-dev/"><img src="https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin" alt="Linkedin"></a>
     <a href="https://t.me/n8body"><img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram" alt="Telegram"></a>
+    <a href="https://www.linkedin.com/in/ruslan-shamsutdinov-dev/"><img src="https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin" alt="Linkedin"></a>
   </p>
 </div>
 
