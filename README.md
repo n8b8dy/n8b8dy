@@ -6,8 +6,7 @@
 <ul>
   <li>Known as <b>n8body</b></li>
   <li>Full-stack & mobile developer from Bulgaria 🇧🇬</li>
-  <li>Currently working at Alpha Bite</li>
-  <li>When I am not working, I enjoy spending time with my family, exploring new technologies, reading history books, and studying law.</li>
+  <li>Currently working at Alphabite</li>
 </ul>
 </div>
 
@@ -19,7 +18,6 @@
     <img src="https://img.shields.io/badge/React-black?style=for-the-badge&amp;logo=react" alt="React">
     <img src="https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go" alt="Go">
     <img src="https://img.shields.io/badge/Arch%20(i%20use%20arch%20btw)-black?style=for-the-badge&logo=archlinux" alt="Arch">
-    <img src="https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellijidea" alt="IntelliJ">
   </p>
 </div>
 
