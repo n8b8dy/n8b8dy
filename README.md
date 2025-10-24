@@ -29,13 +29,3 @@
     <a href="https://www.linkedin.com/in/ruslan-shamsutdinov-dev/"><img src="https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin" alt="Linkedin"></a>
   </p>
 </div>
-
-<br>
-
-<div>
-  <blockquote>
-    <p align="center">
-      <i>per aspera ad astra</i>
-    </p>
-  </blockquote>
-</div>
